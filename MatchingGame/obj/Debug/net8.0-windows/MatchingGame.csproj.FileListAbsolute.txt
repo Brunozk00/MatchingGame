@@ -1,0 +1,16 @@
+D:\MatchingGame-master\bin\Debug\net8.0-windows\MatchingGame.exe
+D:\MatchingGame-master\bin\Debug\net8.0-windows\MatchingGame.deps.json
+D:\MatchingGame-master\bin\Debug\net8.0-windows\MatchingGame.runtimeconfig.json
+D:\MatchingGame-master\bin\Debug\net8.0-windows\MatchingGame.dll
+D:\MatchingGame-master\bin\Debug\net8.0-windows\MatchingGame.pdb
+D:\MatchingGame-master\obj\Debug\net8.0-windows\MatchingGame.Form1.resources
+D:\MatchingGame-master\obj\Debug\net8.0-windows\MatchingGame.csproj.GenerateResource.cache
+D:\MatchingGame-master\obj\Debug\net8.0-windows\MatchingGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\MatchingGame-master\obj\Debug\net8.0-windows\MatchingGame.AssemblyInfoInputs.cache
+D:\MatchingGame-master\obj\Debug\net8.0-windows\MatchingGame.AssemblyInfo.cs
+D:\MatchingGame-master\obj\Debug\net8.0-windows\MatchingGame.csproj.CoreCompileInputs.cache
+D:\MatchingGame-master\obj\Debug\net8.0-windows\MatchingGame.dll
+D:\MatchingGame-master\obj\Debug\net8.0-windows\refint\MatchingGame.dll
+D:\MatchingGame-master\obj\Debug\net8.0-windows\MatchingGame.pdb
+D:\MatchingGame-master\obj\Debug\net8.0-windows\MatchingGame.genruntimeconfig.cache
+D:\MatchingGame-master\obj\Debug\net8.0-windows\ref\MatchingGame.dll
